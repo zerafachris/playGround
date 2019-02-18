@@ -1,4 +1,4 @@
-##Simulating a queue in a post office
+## Simulating a queue in a post office
 
 The problem is to simulate a queue within a post-office as follow:
 
