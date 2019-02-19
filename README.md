@@ -8,11 +8,11 @@ Python, R, matlab and anything which I find [![Awesome](https://cdn.rawgit.com/s
 
 - Visualisations and EDA
     - [Chess analytics (R)](https://github.com/zerafachris/playGround/blob/master/published/chessAnalytics/ChessAnalytics.ipynb)
-  
+    - [Efficiency frontier and Dash (py)](https://github.com/zerafachris/playGround/blob/master/published/EFT/00_readme_eft.ipynb)  
 - Miscellaneous  
     - [Simulating a queue in a post office (py)](https://github.com/zerafachris/playGround/blob/master/published/Queueing/Queueing.ipynb)
     - [Approximate Pi numerically using Monte Carlo Simulations (py)](https://github.com/zerafachris/playGround/blob/master/published/monteCarloSimPi/MonteCarloPi.ipynb)
     - [Hash Code 2018 Pizza Slicer Practice Problem (py)](to be added)
-    - [Efficiency frontier and Dash (py)](to be added)
+
   
 
