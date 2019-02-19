@@ -3,7 +3,7 @@ Python, R, matlab and anything which I find [![Awesome](https://cdn.rawgit.com/s
 ## Table of Contents
 - Data Science Projects
     - [iGaming Analytics - Early Customer Classifier (py)](https://github.com/zerafachris/playGround/blob/master/published/iGamingAnalytics/0_readme.ipynb)
-    - [Prediction the results for the 2018 Fifa World Cup (py)](https://github.com/zerafachris/playGround/blob/master/published/WorldCup2018Predictions/00_intro.ipynb)
+    - [Predicting the results for the 2018 Fifa World Cup (py)](https://github.com/zerafachris/playGround/blob/master/published/WorldCup2018Predictions/00_intro.ipynb)
     - [Malta property market (R)](to be added)
 
 - Visualisations and EDA
