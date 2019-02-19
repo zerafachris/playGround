@@ -9,7 +9,7 @@ Python, R, matlab and anything which I find [![Awesome](https://cdn.rawgit.com/s
   
 - Miscellaneous  
     - [Simulating a queue in a post office (py)](https://github.com/zerafachris/playGround/blob/master/published/Queueing/Queueing.ipynb)
-    - [Approximate Pi numerically using Monte Carlo Simulations (py)]
+    - [Approximate Pi numerically using Monte Carlo Simulations (py)](https://github.com/zerafachris/playGround/blob/master/published/monteCarloSimPi/MonteCarloPi.ipynb)
   - [Efficiency frontier and Dash (py)](to be added)
   - [Malta property market (R)](to be added)
 
