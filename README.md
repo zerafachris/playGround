@@ -3,7 +3,9 @@ Python, R, matlab and anything which I find [![Awesome](https://cdn.rawgit.com/s
 ## Table of Contents
 - Data Science Projects
     - [iGaming Analytics - Early Customer Classifier (py)](https://github.com/zerafachris/playGround/blob/master/published/iGamingAnalytics/0_readme.ipynb)
-    
+    - [Prediction the results for the 2018 Fifa World Cup (py)](https://github.com/zerafachris/playGround/blob/master/published/WorldCup2018Predictions/00_intro.ipynb)
+    - [Malta property market (R)](to be added)
+
 - Visualisations and EDA
     - [Chess analytics (R)](https://github.com/zerafachris/playGround/blob/master/published/chessAnalytics/ChessAnalytics.ipynb)
   
@@ -11,5 +13,5 @@ Python, R, matlab and anything which I find [![Awesome](https://cdn.rawgit.com/s
     - [Simulating a queue in a post office (py)](https://github.com/zerafachris/playGround/blob/master/published/Queueing/Queueing.ipynb)
     - [Approximate Pi numerically using Monte Carlo Simulations (py)](https://github.com/zerafachris/playGround/blob/master/published/monteCarloSimPi/MonteCarloPi.ipynb)
   - [Efficiency frontier and Dash (py)](to be added)
-  - [Malta property market (R)](to be added)
+  
 
