@@ -16,8 +16,8 @@ Python, R, matlab and anything which I find [![Awesome](https://cdn.rawgit.com/s
     - [Hash Code 2018 Pizza Slicer Practice Problem (py)](to be added)
 
 - Books
-    - [An Introduction to Statistical Learning with Applications in R]()
-    - [The Elements of Statistical Learning: Data Mining, Inference, and Prediction]()
-    - [Machine Learning Yearning]()
+    - [An Introduction to Statistical Learning with Applications in R](https://github.com/zerafachris/playGround/blob/master/books/Introduction%20to%20Statistical%20Learning.pdf)
+    - [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://github.com/zerafachris/playGround/blob/master/books/Elements%20of%20Statistical%20Learning.pdf)
+    - [Machine Learning Yearning](https://github.com/zerafachris/playGround/blob/master/books/Machine%20Learning%20Yearning.pdf)
   
 
