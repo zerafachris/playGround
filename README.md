@@ -1,8 +1,8 @@
 Python, R, matlab and anything which I find [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
 
 # Top Notebooks:
-1. [Employing a Churn Prediction and Customer Value Prediction model to increase sales]() *2019-Mar*
-1. [Machine Learning Templates]() *2019-Mar* These are a set of notebooks I use to perform my first pass of model selection in a POC. They test out different ```sklearn``` models, tuning of hyper-parameters via GridSearchCV and finally create an ensemble of models to improve model performance.
+1. [Casino - Employing a Churn Prediction and Customer Value Prediction model to increase sales](https://github.com/zerafachris/playGround/blob/master/published/ChurnPrediction_CLTV/0_Overview.ipynb) *2019-Mar*
+1. [Machine Learning Templates](https://github.com/zerafachris/playGround/tree/master/published/MLtemplates) *2019-Mar* These are a set of notebooks I use to perform my first pass of model selection in a POC. They test out different ```sklearn``` models, tuning of hyper-parameters via GridSearchCV and finally create an ensemble of models to improve model performance.
 1. [Deploying ML Classifier as an API using Flask (py)](https://github.com/zerafachris/playGround/blob/master/published/deployingML/0_readme.ipynb) *2019-Jan* In these set of notebooks, I put together an API with Flask to be used in production.
 1. [iGaming Analytics - Early Customer Classifier (py)](https://github.com/zerafachris/playGround/blob/master/published/iGamingAnalytics/0_readme.ipynb) *2018-Dec* Performed an EDA on an iGaming dataset and put together a Customer Classification Model.
  
