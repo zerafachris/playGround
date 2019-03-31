@@ -1,12 +1,14 @@
 Python, R, matlab and anything which I find [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
 
 # Top Notebooks:
-1. [Casino - Employing a Churn Prediction and Customer Value Prediction model to increase sales](https://github.com/zerafachris/playGround/blob/master/published/ChurnPrediction_CLTV/0_Overview.ipynb) *2019-Mar*
-1. [Machine Learning Templates](https://github.com/zerafachris/playGround/tree/master/published/MLtemplates) *2019-Mar* These are a set of notebooks I use to perform my first pass of model selection in a POC. They test out different ```sklearn``` models, tuning of hyper-parameters via GridSearchCV and finally create an ensemble of models to improve model performance.
+1. [Casino - Employing a Churn Prediction and Customer Value Prediction model to increase sales](https://github.com/zerafachris/playGround/blob/master/published/ChurnPrediction_CLTV/0_Overview.ipynb) *2019-Mar* In these notebooks I try and come up with a possible solution as to how an online casino could try and increase its net revenue.
+1. [Machine Learning Templates](https://github.com/zerafachris/playGround/tree/master/published/MLtemplates) *2019-Mar* These are a set of notebooks I use to perform my first pass of model selection in a POC. They test out different sklearn models, tuning of hyper-parameters via GridSearchCV and finally create an ensemble of models to improve model performance.
 1. [Deploying ML Classifier as an API using Flask (py)](https://github.com/zerafachris/playGround/blob/master/published/deployingML/0_readme.ipynb) *2019-Jan* In these set of notebooks, I put together an API with Flask to be used in production.
 1. [iGaming Analytics - Early Customer Classifier (py)](https://github.com/zerafachris/playGround/blob/master/published/iGamingAnalytics/0_readme.ipynb) *2018-Dec* Performed an EDA on an iGaming dataset and put together a Customer Classification Model.
+1. [Optimal Time to Call (py)]() 
  
 # Other Notebooks
+
 ## Data Science Projects
 - [Predicting the results for the 2018 Fifa World Cup (py)](https://github.com/zerafachris/playGround/blob/master/published/WorldCup2018Predictions/00_intro.ipynb) *2018-May* I tried using ML to predict the outcome of the 2018 Fifa World Cup. This project was not completed as I stopped half-way through the prediction modelling. However, some interesting result came out from the EDA and Feature Engineering in Notebook 2
 - [House price prediction for the Maltese Market (R)](https://github.com/zerafachris/playGround/blob/master/published/maltaHousePricing/00_MaltaHousePrices.ipynb) *2017-Feb* This project was put together for the [Data X - An Introduction to Data Science: Storage, Visualisation and Analysis](https://www.um.edu.mt/courses/studyunit/las3004). This was one of my first attempts at doing DS work and utilised R. 
