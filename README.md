@@ -1,4 +1,4 @@
-Python, R, matlab and anything which I find [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
+Python, R, matlab and anything which I find [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome). If you want to reach out, my personal email is zerafachris(at)gmail.com
 
 # Top Notebooks:
 1. [Casino - Employing a Churn Prediction and Customer Value Prediction model to increase sales](https://github.com/zerafachris/playGround/blob/master/published/ChurnPrediction_CLTV/0_Overview.ipynb) *2019-Mar* In these notebooks I try and come up with a possible solution as to how an online casino could try and increase its net revenue.
