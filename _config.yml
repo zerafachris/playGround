@@ -1,8 +1,8 @@
 #theme: jekyll-theme-leap-day
 #remote_theme: benbalter/retlab
-#remote_theme: SotiriosVrachas/jekyll-theme-startbootstrap-agency
+remote_theme: SotiriosVrachas/jekyll-theme-startbootstrap-agency
 #remote_theme: sproogen/modern-resume-theme
 #remote_theme: mmistakes/minimal-mistakes
 #remote_theme: andrewbanchich/forty-jekyll-theme
 #remote_theme: aron-bordin/neo-hpstr-jekyll-theme
-remote_theme: linaro-marketing/jumbo-jekyll-theme
+#remote_theme: linaro-marketing/jumbo-jekyll-theme
