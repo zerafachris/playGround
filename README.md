@@ -8,7 +8,6 @@ Python, R, matlab and anything which I find [![Awesome](https://cdn.rawgit.com/s
 1. [Optimal Time to Call (py)]() 
  
 # Other Notebooks
-
 ## Data Science Projects
 - [Predicting the results for the 2018 Fifa World Cup (py)](https://github.com/zerafachris/playGround/blob/master/published/WorldCup2018Predictions/00_intro.ipynb) *2018-May* I tried using ML to predict the outcome of the 2018 Fifa World Cup. This project was not completed as I stopped half-way through the prediction modelling. However, some interesting result came out from the EDA and Feature Engineering in Notebook 2
 - [House price prediction for the Maltese Market (R)](https://github.com/zerafachris/playGround/blob/master/published/maltaHousePricing/00_MaltaHousePrices.ipynb) *2017-Feb* This project was put together for the [Data X - An Introduction to Data Science: Storage, Visualisation and Analysis](https://www.um.edu.mt/courses/studyunit/las3004). This was one of my first attempts at doing DS work and utilised R. 
@@ -22,6 +21,12 @@ Python, R, matlab and anything which I find [![Awesome](https://cdn.rawgit.com/s
 - [Approximate Pi numerically using Monte Carlo Simulations (py)](https://github.com/zerafachris/playGround/blob/master/published/monteCarloSimPi/MonteCarloPi.ipynb) *2018-Mar* This is a very short, neat notebook in which I put together a means to approximate $\pi$ numerically using Monte Carlo simulations.
 - [Hash Code 2018 Pizza Slicer Practice Problem (py)](to be added) *2018-Jan*
 - [Simulating a queue in a post office (py)](https://github.com/zerafachris/playGround/blob/master/published/Queueing/Queueing.ipynb) *2016-Jun* At a post office, customers enter a single line waiting to be served by any one of two clerks. There have different probabilities of being served and I try and simulate the office's working hours.
+
+# Training
+- [Introduction to Machine Learning](https://github.com/zerafachris/playGround/blob/master/training/intro_to_ML/00_00_Course_Contents.ipynb) *2019-Aug* In this training course, I will bring you up to speed to the main ideas required for your to be a successful Data Scientist. The course consists of a set of notebooks that are split up into 3 parts:
+    - **01_##_***: Introduction to Machine Learning Basics,
+    - **02_##_***: Core modules required for Machine Learning,
+    - **03_##_***: Specialist modules for Machine Learning
 
 # Books
 - [An Introduction to Statistical Learning with Applications in R](https://github.com/zerafachris/playGround/blob/master/books/Introduction%20to%20Statistical%20Learning.pdf) (Witten, James,  Tibshirani, and Hastie)
