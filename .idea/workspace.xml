@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b9a2644-ccc9-4cd4-bdb5-edb1a99bdf71" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/intro_to_ML/00_00_Course_Contents.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/training/intro_to_ML/00_00_Course_Contents.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,6 +34,7 @@
   </component>
   <component name="ProjectId" id="1Q2oPpkNRLBu9Iai3SGZf17JhSM" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -62,6 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1566978030184</updated>
       <workItem from="1566978031445" duration="343000" />
+      <workItem from="1567061738492" duration="42000" />
     </task>
     <servers />
   </component>
@@ -73,7 +77,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

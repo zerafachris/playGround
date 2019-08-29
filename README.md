@@ -24,9 +24,9 @@ Python, R, matlab and anything which I find [![Awesome](https://cdn.rawgit.com/s
 
 # Training
 - [Introduction to Machine Learning](https://github.com/zerafachris/playGround/blob/master/training/intro_to_ML/00_00_Course_Contents.ipynb) *2019-Aug* In this training course, I will bring you up to speed to the main ideas required for your to be a successful Data Scientist. The course consists of a set of notebooks that are split up into 3 parts:
-    - **01_##_***: Introduction to Machine Learning Basics,
-    - **02_##_***: Core modules required for Machine Learning,
-    - **03_##_***: Specialist modules for Machine Learning
+    - **01\_##\_***: Introduction to Machine Learning Basics,
+    - **02\_##\_***: Core modules required for Machine Learning,
+    - **03\_##\_***: Specialist modules for Machine Learning
 
 # Books
 - [An Introduction to Statistical Learning with Applications in R](https://github.com/zerafachris/playGround/blob/master/books/Introduction%20to%20Statistical%20Learning.pdf) (Witten, James,  Tibshirani, and Hastie)
