@@ -56,3 +56,9 @@ docs/_build/
 
 # PyBuilder
 target/
+
+published/.DS_Store
+
+.idea/workspace.xml
+
+books/.DS_Store
