@@ -1,0 +1,5 @@
+2020-01-01 00:15:14 - this is a great app - Positive 
+2020-01-01 00:15:40 - this is a great app - Positive 
+2020-01-01 00:16:43 - this is a great app - Positive 
+2020-01-01 00:16:55 - this is a great app - Positive 
+2020-01-01 00:20:36 - this is . a very bad app - Negative - 0 
