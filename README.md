@@ -1,6 +1,6 @@
 Python, R, matlab and anything which I find [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome). If you want to reach out, my personal email is zerafachris(at)gmail.com
 
-# Top Notebooks:\
+# Top Notebooks:
 1. [Sentiment Analysis for GitHub Page](https://github.com/zerafachris/playGround/tree/master/published/sentimentAnalysisApp/00_readme.ipynb) *2020-Jan* This notebooks serves to show: 
     1. A very simple sentiment analysis application built using [TF-IDF](https://en.wikipedia.org/wiki/Tf%E2%80%93idf) and sentiment classification using Logistic Regression,
     1. *Multi-language support* since the app will be language agnostic,
