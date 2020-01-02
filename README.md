@@ -1,16 +1,24 @@
 Python, R, matlab and anything which I find [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome). If you want to reach out, my personal email is zerafachris(at)gmail.com
 
-# Top Notebooks:
+# Top Notebooks:\
+1. [Sentiment Analysis for GitHub Page](https://github.com/zerafachris/playGround/tree/master/published/sentimentAnalysisApp/00_readme.ipynb) *2020-Jan* This notebooks serves to show: 
+    1. A very simple sentiment analysis application built using [TF-IDF](https://en.wikipedia.org/wiki/Tf%E2%80%93idf) and sentiment classification using Logistic Regression,
+    1. *Multi-language support* since the app will be language agnostic,
+    1. Deployment and servicing of an ML model model on [PythonAnywhere](https://www.pythonanywhere.com), and
+    1. Use of [Swagger UI](https://swagger.io/tools/swagger-ui/) to encapsulate the API.
+    - You can try out this application live [here](https://mybinder.org/v2/gh/zerafachris/playGround/master?filepath=published%2FsentimentAnalysisApp%2F04_interactive_sentiment_analysis.ipynb)
+        
 1. [Casino - Employing a Churn Prediction and Customer Value Prediction model to increase sales](https://github.com/zerafachris/playGround/blob/master/published/ChurnPrediction_CLTV/0_Overview.ipynb) *2019-Mar* In these notebooks I try and come up with a possible solution as to how an online casino could try and increase its net revenue.
 1. [Machine Learning Templates](https://github.com/zerafachris/playGround/tree/master/published/MLtemplates) *2019-Mar* These are a set of notebooks I use to perform my first pass of model selection in a POC. They test out different sklearn models, tuning of hyper-parameters via GridSearchCV and finally create an ensemble of models to improve model performance.
 1. [Deploying ML Classifier as an API using Flask (py)](https://github.com/zerafachris/playGround/blob/master/published/deployingML/0_readme.ipynb) *2019-Jan* In these set of notebooks, I put together an API with Flask to be used in production.
-1. [iGaming Analytics - Early Customer Classifier (py)](https://github.com/zerafachris/playGround/blob/master/published/iGamingAnalytics/0_readme.ipynb) *2018-Dec* Performed an EDA on an iGaming dataset and put together a Customer Classification Model.
-1. [Optimal Time to Call (py)]() 
+
  
 # Other Notebooks
 ## Data Science Projects
+- [iGaming Analytics - Early Customer Classifier (py)](https://github.com/zerafachris/playGround/blob/master/published/iGamingAnalytics/0_readme.ipynb) *2018-Dec* Performed an EDA on an iGaming dataset and put together a Customer Classification Model.
 - [Predicting the results for the 2018 Fifa World Cup (py)](https://github.com/zerafachris/playGround/blob/master/published/WorldCup2018Predictions/00_intro.ipynb) *2018-May* I tried using ML to predict the outcome of the 2018 Fifa World Cup. This project was not completed as I stopped half-way through the prediction modelling. However, some interesting result came out from the EDA and Feature Engineering in Notebook 2
-- [House price prediction for the Maltese Market (R)](https://github.com/zerafachris/playGround/blob/master/published/maltaHousePricing/00_MaltaHousePrices.ipynb) *2017-Feb* This project was put together for the [Data X - An Introduction to Data Science: Storage, Visualisation and Analysis](https://www.um.edu.mt/courses/studyunit/las3004). This was one of my first attempts at doing DS work and utilised R. 
+- [House price prediction for the Maltese Market (R)](https://github.com/zerafachris/playGround/blob/master/published/maltaHousePricing/00_MaltaHousePrices.ipynb) *2017-Feb* This project was put together for the [Data X - An Introduction to Data Science: Storage, Visualisation and Analysis](https://www.um.edu.mt/courses/studyunit/las3004). This was one of my first attempts at doing DS work and utilised R.
+<!--- - [Optimal Time to Call (py)]() This still needs to be published ---> 
    
 ## Visualisations and EDA
 - [Malta Property Bubble Analysis](https://github.com/zerafachris/playGround/blob/master/published/maltaPropertyBubble/propertyBubble.ipynb) *2019-Mar* This is a mini-notebook were I try to quantify if Malta is currently (2019-Q1) in a property bubble. To do this, I use data from NSO and CBM and plot everything excel.
